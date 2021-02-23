@@ -1,0 +1,9 @@
+Instrucciones:
+
+1. Compilar el programa:
+
+> gcc -o abc.exe abc.c
+
+2. Ejecutar el programa:
+
+> abc
