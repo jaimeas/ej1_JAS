@@ -11,6 +11,7 @@ int main(){
 		printf("%c%c, ",c, c+32);
 	}
 
-	printf("\n Hello World");	
+	printf("\n Hello World");
+	printf("\n error");	
 	return 0;
 }
