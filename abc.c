@@ -10,5 +10,7 @@ int main(){
 	for(c='A'; c<='Z'; c++){
 		printf("%c%c, ",c, c+32);
 	}
+
+	printf("\n Hello World")
 	return 0;
 }
